@@ -1,0 +1,2 @@
+ - [ ] Section 10: Tip Calculator Application 0/1 | 5min
+	 - [ ] 52. Tip Calculator | 5min
